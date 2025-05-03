@@ -21,14 +21,32 @@ Smart Contact Manager is a web-based application built using **Spring Boot**, **
 
 ## 📷 Screenshots
 
+## 📸 Screenshots
+
+### 🏠 Home
+![home](https://github.com/Shreyas191/Smart-Contact-Manager/blob/main/screenshots/home.png)
+
 ### 🔐 Login Page
-![Login Page](https://github.com/Shreyas191/Smart-Contact-Manager/blob/main/screenshots/Screenshot%20(11).png)
+![login](https://github.com/Shreyas191/Smart-Contact-Manager/blob/main/screenshots/login.png)
 
-### 📋 Dashboard
-![Dashboard](screenshots/Screenshot(6).png)
+### 📝 Register
+![register](https://github.com/Shreyas191/Smart-Contact-Manager/blob/main/screenshots/register.png)
 
-### 📇 Contact List
-![Contact List](screenshots/Screenshot(6).png)
+### ✅ Postlogin
+![postlogin](https://github.com/Shreyas191/Smart-Contact-Manager/blob/main/screenshots/postlogin.png)
+
+### ➕ Add Contact
+![addcontact](https://github.com/Shreyas191/Smart-Contact-Manager/blob/main/screenshots/addcontact.png)
+
+### ➕ Post Add Contact 
+![addcontact1](https://github.com/Shreyas191/Smart-Contact-Manager/blob/main/screenshots/addcontact1.png)
+
+### 📇 Contacts
+![contacts](https://github.com/Shreyas191/Smart-Contact-Manager/blob/main/screenshots/contacts.png)
+
+### 🔑 Change Password
+![changepassword](https://github.com/Shreyas191/Smart-Contact-Manager/blob/main/screenshots/changepassword.png)
+
 
 
 ## 📦 Getting Started
