@@ -48,16 +48,16 @@ Smart Contact Manager is a web-based application built using **Spring Boot**, **
 
 ## 📦 Getting Started
 
-### 1. Clone the repository
 ```bash
+1. Clone the repository
 git clone https://github.com/Shreyas191/Smart-Contact-Manager.git
 cd Smart-Contact-Manager
 
 2. Create MySQL Database
-CREATE DATABASE smart_contact_manager;
+CREATE DATABASE contactsmanager;
 
 3. Configure application.properties
-spring.datasource.url=jdbc:mysql://localhost:3306/smart_contact_manager
+spring.datasource.url=jdbc:mysql://localhost:3306/contactsmanager
 spring.datasource.username=your_mysql_username
 spring.datasource.password=your_mysql_password
 
