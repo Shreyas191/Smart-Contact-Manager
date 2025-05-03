@@ -21,16 +21,14 @@ Smart Contact Manager is a web-based application built using **Spring Boot**, **
 
 ## 📷 Screenshots
 
-> ## 📷 Screenshots
-
 ### 🔐 Login Page
-![Login Page](screenshots/screenshot(4).png)
+![Login Page](screenshots/Screenshot(4).png)
 
 ### 📋 Dashboard
-![Dashboard](screenshots/screenshot(5).png)
+![Dashboard](screenshots/Screenshot(6).png)
 
 ### 📇 Contact List
-![Contact List](screenshots/screenshot(6).png)
+![Contact List](screenshots/Screenshot(6).png)
 
 
 ## 📦 Getting Started
