@@ -53,3 +53,18 @@ Smart Contact Manager is a web-based application built using **Spring Boot**, **
 git clone https://github.com/Shreyas191/Smart-Contact-Manager.git
 cd Smart-Contact-Manager
 
+2. Create MySQL Database
+CREATE DATABASE smart_contact_manager;
+
+3. Configure application.properties
+spring.datasource.url=jdbc:mysql://localhost:3306/smart_contact_manager
+spring.datasource.username=your_mysql_username
+spring.datasource.password=your_mysql_password
+
+spring.jpa.hibernate.ddl-auto=update
+spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
+spring.jpa.show-sql=true
+spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQL8Dialect
+
+server.port=8282
+
