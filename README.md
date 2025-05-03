@@ -53,6 +53,3 @@ Smart Contact Manager is a web-based application built using **Spring Boot**, **
 git clone https://github.com/Shreyas191/Smart-Contact-Manager.git
 cd Smart-Contact-Manager
 
-### 2. Configure the MySQL Database
-```bash
-CREATE DATABASE smart_contact_manager;
