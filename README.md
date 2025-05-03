@@ -26,9 +26,6 @@ Smart Contact Manager is a web-based application built using **Spring Boot**, **
 ### 🏠 Home
 ![home](https://github.com/Shreyas191/Smart-Contact-Manager/blob/main/screenshots/home.png)
 
-### 🔐 Login Page
-![login](https://github.com/Shreyas191/Smart-Contact-Manager/blob/main/screenshots/login.png)
-
 ### 📝 Register
 ![register](https://github.com/Shreyas191/Smart-Contact-Manager/blob/main/screenshots/register.png)
 
