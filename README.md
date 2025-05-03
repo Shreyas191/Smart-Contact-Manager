@@ -33,10 +33,10 @@ Smart Contact Manager is a web-based application built using **Spring Boot**, **
 ![postlogin](https://github.com/Shreyas191/Smart-Contact-Manager/blob/main/screenshots/postlogin.png)
 
 ### ➕ Add Contact
-![addcontact](https://github.com/Shreyas191/Smart-Contact-Manager/blob/main/screenshots/addcontact.png)
+![addcontact1](https://github.com/Shreyas191/Smart-Contact-Manager/blob/main/screenshots/addcontact1.png)
 
 ### ➕ Post Add Contact 
-![addcontact1](https://github.com/Shreyas191/Smart-Contact-Manager/blob/main/screenshots/addcontact1.png)
+![addcontact](https://github.com/Shreyas191/Smart-Contact-Manager/blob/main/screenshots/addcontact.png)
 
 ### 📇 Contacts
 ![contacts](https://github.com/Shreyas191/Smart-Contact-Manager/blob/main/screenshots/contacts.png)
